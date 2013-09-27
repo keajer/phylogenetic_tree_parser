@@ -7,7 +7,7 @@ This project is for my undergraduate thesis. It is an algorithm design and simul
     |----------1--------|               |---0.01---sp5
     |                   |               |
     |                   |--------1------|           |---0.01----sp6
-   -|                                   |           |
+    |                                   |           |
     |          |-------1-------sp3      |---0.01----| 
     |          |                                    |            |---------1------sp7
     |---0.01---|                                    |---0.01-----|
